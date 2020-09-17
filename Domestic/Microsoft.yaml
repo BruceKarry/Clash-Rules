@@ -1,5 +1,6 @@
 payload:
   ##  Microsoft
+  - DOMAIN,chshap.blob.core.windows.net
   ## >> Azure
   - DOMAIN-SUFFIX,azure-dns.com
   - DOMAIN-SUFFIX,azure-dns.info
