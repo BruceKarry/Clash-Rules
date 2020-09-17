@@ -133,7 +133,6 @@ payload:
   - DOMAIN-SUFFIX,aaplimg.com
   - DOMAIN-SUFFIX,appstore.com
   - DOMAIN-SUFFIX,crashlytics.com
-PROCESS-NAME,com.apple.geod
   ## >> iCloud
   - DOMAIN-SUFFIX,apple-icloud.cn
   - DOMAIN-SUFFIX,appleicloud.cn
