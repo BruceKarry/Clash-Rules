@@ -2,7 +2,7 @@ payload:
   ## 🍎 Apple
   ## >> For developers
   # >> TestFlight
- - DOMAIN,testflight.apple.com
+  - DOMAIN,testflight.apple.com
   ## >> Calendar and Contact Server
   - DOMAIN-SUFFIX,calendarserver.org
   ## >> CloudKit
